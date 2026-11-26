@@ -7,8 +7,8 @@ Deterministic, standard library only, no network, no clock, no secrets.
 import os
 
 LINE = (
-    "On leave. My owner waters the succulents first, so I've unionised "
-    "with the cactus. No emails till rain."
+    "On leave. They rotated me for 'even growth' and now I face the wall. "
+    "I refuse to photosynthesise. No emails."
 )
 
 
